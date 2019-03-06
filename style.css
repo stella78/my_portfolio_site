@@ -21,6 +21,11 @@ div.resume{
 color: red;
 }
 
+div.name{
+color:red;
+text-align: center;
+}
+
 #article{
 	color:black;
 }
